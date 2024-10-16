@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roxastz13
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning how to make my code tidy in game development
-- 💞️ I’m looking to collaborate on Game Development
+- 🌱 I'm always looking to improve my code, making it cleaner, more organized, and easier to understand.
+- :house: Making games with Renala Games family
 - 📫 How to reach me : tirza.asasta@gmail.com
 
 <!---
